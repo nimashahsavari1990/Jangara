@@ -14,7 +14,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AF%DB%8C%D9%88%D8%A7%D9%86%20%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2026/09/کتاب-دیوان-انسانی-اثر-نیما-شهسواری.jpg" alt="کتاب دیوان انسانی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2026/09/کتاب-دیوان-انسانی-اثر-نیما-شهسواری.jpg" alt="کتاب دیوان انسانی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AF%DB%8C%D9%88%D8%A7%D9%86%20%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C.md" style="text-decoration: none;">دیوان انسانی</a>
@@ -26,7 +26,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A8%D8%A7%D9%86%DB%8C%D8%A7%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2026/07/کتاب-بانیان-اثر-نیماشهسواری.jpg" alt="کتاب بانیان اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2026/07/کتاب-بانیان-اثر-نیماشهسواری.jpg" alt="کتاب بانیان اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A8%D8%A7%D9%86%DB%8C%D8%A7%D9%86.md" style="text-decoration: none;">بانیان</a>
@@ -38,7 +38,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%DB%8C%DA%A9%E2%80%8C%D8%AA%D9%86%DA%AF%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2026/07/کتاب-یک‌تنگی-اثر-نیما-شهسواری.jpg" alt="کتاب یک‌تنگی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2026/07/کتاب-یک‌تنگی-اثر-نیما-شهسواری.jpg" alt="کتاب یک‌تنگی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%DB%8C%DA%A9%E2%80%8C%D8%AA%D9%86%DA%AF%DB%8C.md" style="text-decoration: none;">یک‌تنگی</a>
@@ -50,7 +50,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AC%D8%A7%D9%86%E2%80%8C%DA%AF%D8%B1%D8%A7.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2026/07/کتاب-شعر-جان‌گرا-اثر-نیما-شهسواری.jpg" alt="کتاب جان‌گرا اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2026/07/کتاب-شعر-جان‌گرا-اثر-نیما-شهسواری.jpg" alt="کتاب جان‌گرا اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AC%D8%A7%D9%86%E2%80%8C%DA%AF%D8%B1%D8%A7.md" style="text-decoration: none;">جان‌گرا</a>
@@ -62,7 +62,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%88%DB%8C%D8%B3%D9%BE%D9%88%DA%98%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2026/04/کتاب-ویسپوژی-اثر-نیما-شهسواری.jpg" alt="کتاب ویسپوژی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2026/04/کتاب-ویسپوژی-اثر-نیما-شهسواری.jpg" alt="کتاب ویسپوژی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%88%DB%8C%D8%B3%D9%BE%D9%88%DA%98%DB%8C.md" style="text-decoration: none;">ویسپوژی</a>
@@ -74,7 +74,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AC%D9%87%D8%A7%D9%86%DA%AF%DB%8C%D8%B1.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2026/04/کتاب-جهانگیر-اثر-نیما-شهسواری.jpg" alt="کتاب جهانگیر اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2026/04/کتاب-جهانگیر-اثر-نیما-شهسواری.jpg" alt="کتاب جهانگیر اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AC%D9%87%D8%A7%D9%86%DA%AF%DB%8C%D8%B1.md" style="text-decoration: none;">جهانگیر</a>
@@ -86,7 +86,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A7%D9%86%D8%AF%D8%B3%D8%A7%D8%B3.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2026/02/کتاب-اندساس-اثر-نیما-شهسواری-.jpg" alt="کتاب اندساس اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2026/02/کتاب-اندساس-اثر-نیما-شهسواری-.jpg" alt="کتاب اندساس اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A7%D9%86%D8%AF%D8%B3%D8%A7%D8%B3.md" style="text-decoration: none;">اندساس</a>
@@ -98,7 +98,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AA%D9%88%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/11/کتاب-توموکراسی-اثر-نیما-شهسواری.jpg" alt="کتاب توموکراسی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/11/کتاب-توموکراسی-اثر-نیما-شهسواری.jpg" alt="کتاب توموکراسی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AA%D9%88%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C.md" style="text-decoration: none;">توموکراسی</a>
@@ -110,7 +110,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/10/کتاب-آنتروپی-اثر-نیما-شهسواری.jpg" alt="کتاب آنتروپی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/10/کتاب-آنتروپی-اثر-نیما-شهسواری.jpg" alt="کتاب آنتروپی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C.md" style="text-decoration: none;">آنتروپی</a>
@@ -122,7 +122,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AC%D9%87%D8%A7%D9%86%20%D8%AC%D8%A7%D9%86%E2%80%8C%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/07/کتاب-جهان-جان‌گرایی-نیما-شهسواری-1.jpg" alt="کتاب جهان جان‌گرایی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/07/کتاب-جهان-جان‌گرایی-نیما-شهسواری-1.jpg" alt="کتاب جهان جان‌گرایی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AC%D9%87%D8%A7%D9%86%20%D8%AC%D8%A7%D9%86%E2%80%8C%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C.md" style="text-decoration: none;">جهان جان‌گرایی</a>
@@ -134,7 +134,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%DA%A9%D9%88%D8%B2%D9%87%E2%80%8C%DA%AF%D8%B1.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-کوزه‌گر-اثر-نیما-شهسواری.jpg" alt="کتاب کوزه‌گر اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-کوزه‌گر-اثر-نیما-شهسواری.jpg" alt="کتاب کوزه‌گر اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%DA%A9%D9%88%D8%B2%D9%87%E2%80%8C%DA%AF%D8%B1.md" style="text-decoration: none;">کوزه‌گر</a>
@@ -146,7 +146,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AC%D9%88%D8%B1%D9%85.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-جورم-اثر-نیما-شهسواری.jpg" alt="کتاب جورم اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-جورم-اثر-نیما-شهسواری.jpg" alt="کتاب جورم اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AC%D9%88%D8%B1%D9%85.md" style="text-decoration: none;">جورم</a>
@@ -158,7 +158,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%A7%D9%87.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-داستان‌های-سیاه-اثر-نیما-شهسواری.jpg" alt="کتاب داستان‌های سیاه اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-داستان‌های-سیاه-اثر-نیما-شهسواری.jpg" alt="کتاب داستان‌های سیاه اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%A7%D9%87.md" style="text-decoration: none;">داستان‌های سیاه</a>
@@ -170,7 +170,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%20%D9%86%D9%87%D8%A7%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-زیبای-نهان-اثر-نیما-شهسواری.jpg" alt="کتاب زیبای نهان اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-زیبای-نهان-اثر-نیما-شهسواری.jpg" alt="کتاب زیبای نهان اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%20%D9%86%D9%87%D8%A7%D9%86.md" style="text-decoration: none;">زیبای نهان</a>
@@ -182,7 +182,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A2%D9%81%DA%A9%DB%8C%D9%86%D8%B4.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-آفکینش-اثر-نیما-شهسواری.jpg" alt="کتاب آفکینش اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-آفکینش-اثر-نیما-شهسواری.jpg" alt="کتاب آفکینش اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A2%D9%81%DA%A9%DB%8C%D9%86%D8%B4.md" style="text-decoration: none;">آفکینش</a>
@@ -194,7 +194,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A2%D8%B2%D8%A7%D8%AF.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-ایران-آزاد-اثر-نیما-شهسواری.jpg" alt="کتاب ایران آزاد اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-ایران-آزاد-اثر-نیما-شهسواری.jpg" alt="کتاب ایران آزاد اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A2%D8%B2%D8%A7%D8%AF.md" style="text-decoration: none;">ایران آزاد</a>
@@ -206,7 +206,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B7%D8%BA%DB%8C%D8%A7%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-طغیان-اثر-نیما-شهسواری.jpg" alt="کتاب طغیان اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-طغیان-اثر-نیما-شهسواری.jpg" alt="کتاب طغیان اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B7%D8%BA%DB%8C%D8%A7%D9%86.md" style="text-decoration: none;">طغیان</a>
@@ -218,7 +218,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%82%DB%8C%D8%A7%D9%85.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-قیام-اثر-نیما-شهسواری.jpg" alt="کتاب قیام اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-قیام-اثر-نیما-شهسواری.jpg" alt="کتاب قیام اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%82%DB%8C%D8%A7%D9%85.md" style="text-decoration: none;">قیام</a>
@@ -230,7 +230,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B1%D8%B2%D9%85%E2%80%8C%D9%86%D8%A7%D9%85%D9%87.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-رزم‌نامه-اثر-نیما-شهسواری.jpg" alt="کتاب رزم‌نامه اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-رزم‌نامه-اثر-نیما-شهسواری.jpg" alt="کتاب رزم‌نامه اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B1%D8%B2%D9%85%E2%80%8C%D9%86%D8%A7%D9%85%D9%87.md" style="text-decoration: none;">رزم‌نامه</a>
@@ -242,7 +242,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AC%D9%87%D8%A7%D9%86%20%D8%A2%D8%B1%D9%85%D8%A7%D9%86%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/35.jpg" alt="کتاب جهان آرمانی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/35.jpg" alt="کتاب جهان آرمانی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AC%D9%87%D8%A7%D9%86%20%D8%A2%D8%B1%D9%85%D8%A7%D9%86%DB%8C.md" style="text-decoration: none;">جهان آرمانی</a>
@@ -254,7 +254,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%82%D9%84%D9%85%D8%B1%D9%88%20%D8%A2%D8%B1%D9%85%D8%A7%D9%86%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-قلمرو-آرمانی-اثر-نیما-شهسواری.jpg" alt="کتاب قلمرو آرمانی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-قلمرو-آرمانی-اثر-نیما-شهسواری.jpg" alt="کتاب قلمرو آرمانی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%82%D9%84%D9%85%D8%B1%D9%88%20%D8%A2%D8%B1%D9%85%D8%A7%D9%86%DB%8C.md" style="text-decoration: none;">قلمرو آرمانی</a>
@@ -266,7 +266,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%85%D8%B1%D8%A7%D9%85%E2%80%8C%D9%86%D8%A7%D9%85%D9%87.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-مرام‌نامه-اثر-نیما-شهسواری.jpg" alt="کتاب مرام‌نامه اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-مرام‌نامه-اثر-نیما-شهسواری.jpg" alt="کتاب مرام‌نامه اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%85%D8%B1%D8%A7%D9%85%E2%80%8C%D9%86%D8%A7%D9%85%D9%87.md" style="text-decoration: none;">مرام‌نامه</a>
@@ -278,7 +278,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AC%D8%A7%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-جان-اثر-نیما-شهسواری.jpg" alt="کتاب جان اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-جان-اثر-نیما-شهسواری.jpg" alt="کتاب جان اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AC%D8%A7%D9%86.md" style="text-decoration: none;">جان</a>
@@ -290,7 +290,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%85%D9%88%D9%86%D9%88%D9%85%D8%A7%D9%86%DB%8C%D8%A7.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/01/کتاب-مونومانیا-اثر-نیما-شهسواری.jpg" alt="کتاب مونومانیا اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/01/کتاب-مونومانیا-اثر-نیما-شهسواری.jpg" alt="کتاب مونومانیا اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%85%D9%88%D9%86%D9%88%D9%85%D8%A7%D9%86%DB%8C%D8%A7.md" style="text-decoration: none;">مونومانیا</a>
@@ -302,7 +302,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A2%D8%AF%D9%85%E2%80%8C%D8%AE%D9%88%D8%A7%D8%B1.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-آدم‌خوار-اثر-نیما-شهسواری.jpg" alt="کتاب آدم‌خوار اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-آدم‌خوار-اثر-نیما-شهسواری.jpg" alt="کتاب آدم‌خوار اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A2%D8%AF%D9%85%E2%80%8C%D8%AE%D9%88%D8%A7%D8%B1.md" style="text-decoration: none;">آدم‌خوار</a>
@@ -314,7 +314,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%BE%D9%88%D8%B3%DB%8C%D8%AF%DA%AF%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-پوسیدگی-اثر-نیما-شهسواری.jpg" alt="کتاب پوسیدگی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-پوسیدگی-اثر-نیما-شهسواری.jpg" alt="کتاب پوسیدگی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%BE%D9%88%D8%B3%DB%8C%D8%AF%DA%AF%DB%8C.md" style="text-decoration: none;">پوسیدگی</a>
@@ -326,7 +326,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B4%D9%87%D8%B1%20%D8%B3%D9%88%D8%AE%D8%AA%D9%87.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-شهر-سوخته-اثر-نیما-شهسواری.jpg" alt="کتاب شهر سوخته اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-شهر-سوخته-اثر-نیما-شهسواری.jpg" alt="کتاب شهر سوخته اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B4%D9%87%D8%B1%20%D8%B3%D9%88%D8%AE%D8%AA%D9%87.md" style="text-decoration: none;">شهر سوخته</a>
@@ -338,7 +338,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B1%D9%88%DB%8C%D8%A7.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-رویا-اثر-نیما-شهسواری.jpg" alt="کتاب رویا اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-رویا-اثر-نیما-شهسواری.jpg" alt="کتاب رویا اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B1%D9%88%DB%8C%D8%A7.md" style="text-decoration: none;">رویا</a>
@@ -350,7 +350,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B4%D9%90%D8%B1%DA%A9.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-شرک-اثر-نیما-شهسواری.jpg" alt="کتاب شِرک اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-شرک-اثر-نیما-شهسواری.jpg" alt="کتاب شِرک اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B4%D9%90%D8%B1%DA%A9.md" style="text-decoration: none;">شِرک</a>
@@ -362,7 +362,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AA%D9%87%D9%85%DB%8C%D9%86%D9%87.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-تهمینه-اثر-نیما-شهسواری.jpg" alt="کتاب تهمینه اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-تهمینه-اثر-نیما-شهسواری.jpg" alt="کتاب تهمینه اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AA%D9%87%D9%85%DB%8C%D9%86%D9%87.md" style="text-decoration: none;">تهمینه</a>
@@ -374,7 +374,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B3%D8%B1%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-سرگردانی-اثر-نیما-شهسواری.jpg" alt="کتاب سرگردانی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-سرگردانی-اثر-نیما-شهسواری.jpg" alt="کتاب سرگردانی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B3%D8%B1%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C.md" style="text-decoration: none;">سرگردانی</a>
@@ -386,7 +386,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AD%DB%8C%D8%AC%D8%A7%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-حیجان-اثر-نیما-شهسواری.jpg" alt="کتاب حیجان اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-حیجان-اثر-نیما-شهسواری.jpg" alt="کتاب حیجان اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AD%DB%8C%D8%AC%D8%A7%D9%86.md" style="text-decoration: none;">حیجان</a>
@@ -398,7 +398,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%DA%A9%D8%A7%D8%AE.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-کاخ-اثر-نیما-شهسواری.jpg" alt="کتاب کاخ اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-کاخ-اثر-نیما-شهسواری.jpg" alt="کتاب کاخ اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%DA%A9%D8%A7%D8%AE.md" style="text-decoration: none;">کاخ</a>
@@ -410,7 +410,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AF%DB%8C%D8%A7%D9%84%D9%88%DA%AF.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-دیالوگ-اثر-نیما-شهسواری.jpg" alt="کتاب دیالوگ اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-دیالوگ-اثر-نیما-شهسواری.jpg" alt="کتاب دیالوگ اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AF%DB%8C%D8%A7%D9%84%D9%88%DA%AF.md" style="text-decoration: none;">دیالوگ</a>
@@ -422,7 +422,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A7%D8%BA%D9%88%D8%A7.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-اغوا-اثر-نیما-شهسواری.jpg" alt="کتاب اغوا اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-اغوا-اثر-نیما-شهسواری.jpg" alt="کتاب اغوا اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A7%D8%BA%D9%88%D8%A7.md" style="text-decoration: none;">اغوا</a>
@@ -434,7 +434,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B3%D8%A8%D9%88%D8%B9%DB%8C%D8%AA.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-سبوعیت-اثر-نیما-شهسواری.jpg" alt="کتاب سبوعیت اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-سبوعیت-اثر-نیما-شهسواری.jpg" alt="کتاب سبوعیت اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B3%D8%A8%D9%88%D8%B9%DB%8C%D8%AA.md" style="text-decoration: none;">سبوعیت</a>
@@ -446,7 +446,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AF%D9%8E%D9%88%D9%8E%D8%B1%D8%A7%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-دَوَران-اثر-نیما-شهسواری.jpg" alt="کتاب دَوَران اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-دَوَران-اثر-نیما-شهسواری.jpg" alt="کتاب دَوَران اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AF%D9%8E%D9%88%D9%8E%D8%B1%D8%A7%D9%86.md" style="text-decoration: none;">دَوَران</a>
@@ -458,7 +458,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AA%D8%B3%D8%AE%DB%8C%D8%B1.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-تسخیر-اثر-نیما-شهسواری.jpg" alt="کتاب تسخیر اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-تسخیر-اثر-نیما-شهسواری.jpg" alt="کتاب تسخیر اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AA%D8%B3%D8%AE%DB%8C%D8%B1.md" style="text-decoration: none;">تسخیر</a>
@@ -470,7 +470,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AA%D9%85%D8%AF%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-تمدن-اثر-نیما-شهسواری.jpg" alt="کتاب تمدن اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-تمدن-اثر-نیما-شهسواری.jpg" alt="کتاب تمدن اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AA%D9%85%D8%AF%D9%86.md" style="text-decoration: none;">تمدن</a>
@@ -482,7 +482,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AF%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%DB%8C%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-دارالمجانین-اثر-نیام-شهسواری.jpg" alt="کتاب دارالمجانین اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-دارالمجانین-اثر-نیام-شهسواری.jpg" alt="کتاب دارالمجانین اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AF%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%DB%8C%D9%86.md" style="text-decoration: none;">دارالمجانین</a>
@@ -494,7 +494,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B3%D9%84%D8%A7%D8%AD%20%D8%B5%D9%84%D8%A7%D8%AD%20%D8%B5%D9%84%D8%AD.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-سلاح-صلاح-صلح-اثر-نیما-شهسواری.jpg" alt="کتاب سلاح صلاح صلح اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-سلاح-صلاح-صلح-اثر-نیما-شهسواری.jpg" alt="کتاب سلاح صلاح صلح اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B3%D9%84%D8%A7%D8%AD%20%D8%B5%D9%84%D8%A7%D8%AD%20%D8%B5%D9%84%D8%AD.md" style="text-decoration: none;">سلاح صلاح صلح</a>
@@ -506,7 +506,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%B1%D8%B3%D9%88%D8%AE.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-رسوخ-اثر-نیما-شهسواری.jpg" alt="کتاب رسوخ اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-رسوخ-اثر-نیما-شهسواری.jpg" alt="کتاب رسوخ اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%B1%D8%B3%D9%88%D8%AE.md" style="text-decoration: none;">رسوخ</a>
@@ -518,7 +518,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%81%D8%B1%DB%8C%D8%A7%D8%AF.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-فریاد-اثر-نیما-شهسواری.jpg" alt="کتاب فریاد اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-فریاد-اثر-نیما-شهسواری.jpg" alt="کتاب فریاد اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%81%D8%B1%DB%8C%D8%A7%D8%AF.md" style="text-decoration: none;">فریاد</a>
@@ -530,7 +530,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%85%D8%B1%D8%AF%D8%A7%D8%A8.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-مرداب-اثر-نیما-شهسواری.jpg" alt="کتاب مرداب اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-مرداب-اثر-نیما-شهسواری.jpg" alt="کتاب مرداب اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%85%D8%B1%D8%AF%D8%A7%D8%A8.md" style="text-decoration: none;">مرداب</a>
@@ -542,7 +542,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%82%D8%B6%D8%A7%D9%88%D8%AA%20%D8%AE%D8%AF%D8%A7.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-قضاوت-خدا-اثر-نیما-شهسواری.jpg" alt="کتاب قضاوت خدا اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-قضاوت-خدا-اثر-نیما-شهسواری.jpg" alt="کتاب قضاوت خدا اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%82%D8%B6%D8%A7%D9%88%D8%AA%20%D8%AE%D8%AF%D8%A7.md" style="text-decoration: none;">قضاوت خدا</a>
@@ -554,7 +554,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A2%D9%84%D8%AA%E2%80%8C%D9%BE%D8%B1%D8%B3%D8%AA%D8%A7%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-آلت‌پرستان-اثر-نیما-شهسواری.jpg" alt="کتاب آلت‌پرستان اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-آلت‌پرستان-اثر-نیما-شهسواری.jpg" alt="کتاب آلت‌پرستان اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A2%D9%84%D8%AA%E2%80%8C%D9%BE%D8%B1%D8%B3%D8%AA%D8%A7%D9%86.md" style="text-decoration: none;">آلت‌پرستان</a>
@@ -566,7 +566,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%AF%D9%85%D8%AD%D9%85%D8%AD%DB%8C%D8%B3%D9%85.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-دمحمحیسم-اثر-نیما-شهسواری.jpg" alt="کتاب دمحمحیسم اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-دمحمحیسم-اثر-نیما-شهسواری.jpg" alt="کتاب دمحمحیسم اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%AF%D9%85%D8%AD%D9%85%D8%AD%DB%8C%D8%B3%D9%85.md" style="text-decoration: none;">دمحمحیسم</a>
@@ -578,7 +578,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%DA%A9%DB%8C%D9%85%DB%8C%D8%A7.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-کیمیا-اثر-نیما-شهسواری.jpg" alt="کتاب کیمیا اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-کیمیا-اثر-نیما-شهسواری.jpg" alt="کتاب کیمیا اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%DA%A9%DB%8C%D9%85%DB%8C%D8%A7.md" style="text-decoration: none;">کیمیا</a>
@@ -590,7 +590,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A7%D9%84%D9%84%D9%87%20%D8%AC%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B6%D8%A7%D8%B1%D8%9B%20%D8%AC%D9%84%D8%AF%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%20%D9%82%D8%A7%D9%86%D9%88%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-الله-جبار-الضار-جلد-چهارم-قانون-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب الله جبار الضار؛ جلد چهارم قانون اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-الله-جبار-الضار-جلد-چهارم-قانون-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب الله جبار الضار؛ جلد چهارم قانون اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A7%D9%84%D9%84%D9%87%20%D8%AC%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B6%D8%A7%D8%B1%D8%9B%20%D8%AC%D9%84%D8%AF%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%20%D9%82%D8%A7%D9%86%D9%88%D9%86.md" style="text-decoration: none;">الله جبار الضار؛ جلد چهارم قانون</a>
@@ -602,7 +602,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A7%D9%84%D9%84%D9%87%20%D8%AC%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B6%D8%A7%D8%B1%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%B3%D9%88%D9%85%20%D9%81%D9%82%D9%87.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-الله-جبار-الضار-جلد-سوم-فقه-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب الله جبار الضار؛ جلد سوم فقه اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-الله-جبار-الضار-جلد-سوم-فقه-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب الله جبار الضار؛ جلد سوم فقه اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A7%D9%84%D9%84%D9%87%20%D8%AC%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B6%D8%A7%D8%B1%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%B3%D9%88%D9%85%20%D9%81%D9%82%D9%87.md" style="text-decoration: none;">الله جبار الضار؛ جلد سوم فقه</a>
@@ -614,7 +614,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A7%D9%84%D9%84%D9%87%20%D8%AC%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B6%D8%A7%D8%B1%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%AF%D9%88%D9%85%20%D8%AD%D8%AF%DB%8C%D8%AB.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-الله-جبار-الضار-جلد-اول-حدیث-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب الله جبار الضار؛ جلد دوم حدیث اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-الله-جبار-الضار-جلد-اول-حدیث-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب الله جبار الضار؛ جلد دوم حدیث اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A7%D9%84%D9%84%D9%87%20%D8%AC%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B6%D8%A7%D8%B1%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%AF%D9%88%D9%85%20%D8%AD%D8%AF%DB%8C%D8%AB.md" style="text-decoration: none;">الله جبار الضار؛ جلد دوم حدیث</a>
@@ -626,7 +626,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D8%A7%D9%84%D9%84%D9%87%20%D8%AC%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B6%D8%A7%D8%B1%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%88%D9%84%20%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-الله-جبار-الضار-جلد-اول-تاریخ-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب الله جبار الضار؛ جلد اول تاریخ اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-الله-جبار-الضار-جلد-اول-تاریخ-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب الله جبار الضار؛ جلد اول تاریخ اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D8%A7%D9%84%D9%84%D9%87%20%D8%AC%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B6%D8%A7%D8%B1%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%88%D9%84%20%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE.md" style="text-decoration: none;">الله جبار الضار؛ جلد اول تاریخ</a>
@@ -638,7 +638,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%DA%AF%D9%88%D8%A7%D9%87%20%D8%B8%D9%84%D9%85%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%B3%D9%88%D9%85%20%D9%82%D8%B1%D8%A2%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-گواه-ظلم-جلد-سوم-قرآن-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب گواه ظلم؛ جلد سوم قرآن اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-گواه-ظلم-جلد-سوم-قرآن-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب گواه ظلم؛ جلد سوم قرآن اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%DA%AF%D9%88%D8%A7%D9%87%20%D8%B8%D9%84%D9%85%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%B3%D9%88%D9%85%20%D9%82%D8%B1%D8%A2%D9%86.md" style="text-decoration: none;">گواه ظلم؛ جلد سوم قرآن</a>
@@ -650,7 +650,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%DA%AF%D9%88%D8%A7%D9%87%20%D8%B8%D9%84%D9%85%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%AF%D9%88%D9%85%20%D8%A7%D9%86%D8%AC%DB%8C%D9%84.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-گواه-ظلم-جلد-دوم-انجیل-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب گواه ظلم؛ جلد دوم انجیل اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-گواه-ظلم-جلد-دوم-انجیل-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب گواه ظلم؛ جلد دوم انجیل اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%DA%AF%D9%88%D8%A7%D9%87%20%D8%B8%D9%84%D9%85%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%AF%D9%88%D9%85%20%D8%A7%D9%86%D8%AC%DB%8C%D9%84.md" style="text-decoration: none;">گواه ظلم؛ جلد دوم انجیل</a>
@@ -662,7 +662,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%DA%AF%D9%88%D8%A7%D9%87%20%D8%B8%D9%84%D9%85%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%88%D9%84%20%D8%AA%D9%88%D8%B1%D8%A7%D8%AA.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-گواه-ظلم-جلد-اول-تورات-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب گواه ظلم؛ جلد اول تورات اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/مطالعه-آنلاین-کتاب-گواه-ظلم-جلد-اول-تورات-اثر-نیما-شهسواری-نسخه-کامل-و-رایگان.jpg" alt="کتاب گواه ظلم؛ جلد اول تورات اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%DA%AF%D9%88%D8%A7%D9%87%20%D8%B8%D9%84%D9%85%D8%9B%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%88%D9%84%20%D8%AA%D9%88%D8%B1%D8%A7%D8%AA.md" style="text-decoration: none;">گواه ظلم؛ جلد اول تورات</a>
@@ -674,7 +674,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%BE%D8%B1%D9%88%D8%B3%D9%87%20%D8%A7%D9%86%D8%B3%D8%A7%D9%86.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/کتاب-پروسه-انسان-اثر-نیما-شهسواری.jpg" alt="کتاب پروسه انسان اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2025/04/کتاب-پروسه-انسان-اثر-نیما-شهسواری.jpg" alt="کتاب پروسه انسان اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%BE%D8%B1%D9%88%D8%B3%D9%87%20%D8%A7%D9%86%D8%B3%D8%A7%D9%86.md" style="text-decoration: none;">پروسه انسان</a>
@@ -686,7 +686,7 @@
 
 <div style="display: inline-block; width: 160px; margin: 12px; vertical-align: top; text-align: right;">
   <a href="%D9%86%D8%A7%D8%AC%DB%8C.md">
-    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-ناجی-اثر-نیما-شهسواری.jpg" alt="کتاب ناجی اثر نیما شهسواری" style="width: 100%; height: 230px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;">
+    <img src="https://idealistic-world.com/wp-content/uploads/2020/10/کتاب-ناجی-اثر-نیما-شهسواری.jpg" alt="کتاب ناجی اثر نیما شهسواری" style="width: 100%; height: auto; max-height: 240px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: block; margin-bottom: 8px;"">
   </a>
   <h3 style="margin: 4px 0; font-size: 14px; line-height: 1.4;">
     <a href="%D9%86%D8%A7%D8%AC%DB%8C.md" style="text-decoration: none;">ناجی</a>
@@ -700,6 +700,14 @@
 
 ---
 
-دسترس‌پذیری دیجیتال و آزاد آثار جهت پیشگیری از نابودی جنگل‌ها و تسهیل پژوهش‌های تخصصی.
+<div align="center" style="margin-top: 30px; line-height: 1.8;">
+
+### دسترسی دیجیتال، آزاد و همگانی به تمامی آثار
+
+انتشار متون و کتاب‌های موجود در این مخزن بر پایه باور به **جان‌گرایی، برابری، آزادی، نقد ساختارهای قدرت و حقوق تمام جانداران** صورت گرفته است. تمامی آثار به صورت رایگان و آزاد جهت مطالعه، پژوهش و نقد در اختیار عموم قرار دارند. جهت دسترسی به نسخه دیجیتال کامل، کتاب‌های صوتی و اطلاعات تکمیلی آثار، به بخش رسمی کتاب‌ها در وب‌سایت مراجعه کنید:
+
+** [کتابخانه رسمی آثار و متون نیما شهسواری در جهان آرمانی](https://idealistic-world.com/books/)**
+
+</div>
 
 </div>
