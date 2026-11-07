@@ -14,11 +14,11 @@
 <div align="center">
 
 
-<a href="%D8%B3%D8%A7%DA%A9%D9%88%D9%81%D8%A7%DA%AF.md">
-  <img src="https://idealistic-world.com/wp-content/uploads/2026/11/کتاب-سارکوفاگ-اثر-نیما-شهسواری.jpg" alt="کتاب ساکوفاگ اثر نیما شهسواری" width="200" style="border-radius: 6px; margin: 10px 0;">
+<a href="%D8%B3%D8%A7%D8%B1%DA%A9%D9%88%D9%81%D8%A7%DA%AF.md">
+  <img src="https://idealistic-world.com/wp-content/uploads/2026/11/کتاب-سارکوفاگ-اثر-نیما-شهسواری.jpg" alt="کتاب سارکوفاگ اثر نیما شهسواری" width="200" style="border-radius: 6px; margin: 10px 0;">
 </a>
 
-### [کتاب ساکوفاگ](%D8%B3%D8%A7%DA%A9%D9%88%D9%81%D8%A7%DA%AF.md)
+### [کتاب سارکوفاگ](%D8%B3%D8%A7%D8%B1%DA%A9%D9%88%D9%81%D8%A7%DA%AF.md)
 
 
 </div>
